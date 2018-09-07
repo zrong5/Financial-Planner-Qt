@@ -8,18 +8,18 @@ I have developed this financial planner for personal use to budget my household 
 
 The first page is going to be the dashboard of all of your expenses. Initially, the dashboard will be empty along with the pie chart. 
 
-To add expense categories:
+### To add expense categories:
 1. Go to to the menu button on the to left
 2. Select Budget with will navigate you to the budget page
 3. Once on Budget page, click +/- button on bottom right hand side
 4. Select add category 
 5. Enter category name and percentage
 
-To add expense:
+### To add expense:
 1. On Dashboard page, click + icon on bottom 
 2. Select expense category and enter amount
 
-To add accounts:
+### To add accounts:
 1. On Dashboard page, click +/- button
 2. Select add account 
 3. Enter account name and initial amount
