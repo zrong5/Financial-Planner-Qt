@@ -2,7 +2,7 @@
 ### Author: Zhilang Rong
 ### Date: 09/06/2018
 ### Platform: Windows 10
-## !Additional plugins needed: https://www.dropbox.com/sh/gd5uoxtmtlsyvqq/AACK-A5EFwdQjoRF9VeuZNvwa?dl=0 !
+#### !Additional plugins needed: https://www.dropbox.com/sh/gd5uoxtmtlsyvqq/AACK-A5EFwdQjoRF9VeuZNvwa?dl=0 !
 ## Description
 I have developed this financial planner for personal use to budget my household finace simply because there are not a lot of easy to use and view financial planners out there. 
 
